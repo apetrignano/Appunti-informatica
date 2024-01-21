@@ -1,4 +1,4 @@
-# lezione 4 ()
+# lezione 4 
 ## Ripasso fstream
 Ha due utilizzi: di input e di output (ovvero lettura e scrittura su file).
 ### Input
