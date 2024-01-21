@@ -1,4 +1,4 @@
-# Puntatori
+# Lezione 7 (puntatori)
 ## 7.1 Definizione: datatype.variabile;
 sono tipi di dati che rappresentano la posizione  in memoria (variabili, classi...).
 - ad es. int;
