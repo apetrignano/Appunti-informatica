@@ -1,5 +1,6 @@
 # Lezione 3
 ## 3.1) iostream
+definizione: è semplicemente la libreria che si occupa dei segnali di input e output sul terminale
 Con #include <iostream> si inserisce cin e cout (appunto input e output)
 (si scrive sempre using namespace std; perche' si)
 ```cc
